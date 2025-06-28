@@ -1,8 +1,6 @@
 # Player Match Scores
 
-Given two files `app.js` and a database file `cricketMatchDetails.db` consisting of three tables `player_details`, `match_details` and `player_match_score`.
 
-Write APIs to perform operations on the tables `player_details`, `match_details` and `player_match_score` containing the following columns,
 
 **Player Details Table**
 
@@ -194,7 +192,5 @@ Returns the statistics of the total score, fours, sixes of a specific player bas
 
 Use `npm install` to install the packages.
 
-**Export the express instance using the default export syntax.**
 
-**Use Common JS module syntax.**
  
